@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "quantumbot-eb4c3",
+    "test":"quantumbot-eb4c3"
+  },
+  "targets": {},
+  "etags": {}
+}
